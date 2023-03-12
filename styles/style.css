@@ -46,3 +46,9 @@ h1{
     left: 0;
     right: 0;
 }
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
